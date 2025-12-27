@@ -10,7 +10,7 @@ Deploy Oracle Database 19c on Oracle Linux 8 using a multitenant architecture.
 ### Key Deliverables
 - Oracle 19c installed
 - CDB created
-- Project PDB (BASKET_PDB) created
+- Project PDB (PDB_BASKETBALLP_19C) created
 - Dedicated tablespaces and users
 
 ### Architecture
